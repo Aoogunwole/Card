@@ -1,0 +1,32 @@
+#button{
+    border-radius: 10em;
+    padding: 1em;
+}
+
+#text{
+    font-size: 10em;
+    font-weight: 600;
+}
+
+span{
+    font-size: .5em;
+}
+
+p{
+    font-size: 1.5em;
+    text-align: center;
+}
+
+li{
+    padding: .5em;
+    font-size: 1.4em;
+}
+
+#bd:hover{
+    height: 100vh;
+}
+
+#h2:hover{
+    margin: -1em;
+    transition: all linear .5s;
+}
